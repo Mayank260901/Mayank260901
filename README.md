@@ -1,17 +1,22 @@
 ### Hi there 👋
 
+🔭 I’m currently working on: A Healthcare Management System using Java, Hibernate, JPA, and MySQL, as well as improving my portfolio website. 
 
+🌱 I’m currently learning: Spring Boot for back-end development and enhancing my full-stack skills with React.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on: Java-based open-source projects, web development using React, and any project involving backend technologies like Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🤔 I’m looking for help with: Advanced Spring Boot features, optimizing Hibernate performance, and scaling full-stack web applications.
+
+💬 Ask me about: Java development, web development with React, database design, and working with frameworks like Hibernate and Spring Boot.
+
+📫 How to reach me: [Email](mailto:bhargavamayankbm1@gmail.com), [LinkedIn](www.linkedin.com/in/mayank-bhargava26
+
+), or via GitHub issues.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love exploring tech innovations and building side projects like e-commerce websites for electronics!
 
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank260901&show_icons=true&theme=radical)
