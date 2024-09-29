@@ -10,7 +10,7 @@
 
 💬 Ask me about: Java development, web development with React, database design, and working with frameworks like Hibernate and Spring Boot.
 
-📫 How to reach me: [Email](mailto:bhargavamayankbm1@gmail.com), [LinkedIn](www.linkedin.com/in/mayank-bhargava26), or via GitHub issues.
+📫 How to reach me: [Email](mailto:bhargavamayankbm1@gmail.com), [LinkedIn](https://www.linkedin.com/in/mayank-bhargava26), or via GitHub issues.
 
 Check out the live demo of my portfolio website here: ([Portfolio Website](https://mayank260901.github.io/Portfolio-Mayank/))
 
