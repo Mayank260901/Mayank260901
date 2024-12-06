@@ -18,6 +18,4 @@ Check out the live demo of my portfolio website here: ([Portfolio Website](https
 
 ⚡ Fun fact: I love exploring tech innovations and building side projects like e-commerce websites for electronics!
 
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank260901&show_icons=true&theme=radical)
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank260901&show_icons=true&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN)
